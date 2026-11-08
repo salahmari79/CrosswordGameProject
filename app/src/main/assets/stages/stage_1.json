@@ -1,0 +1,26 @@
+{
+  "stageNumber": 1,
+  "difficulty": "سهل",
+  "gridRows": 5,
+  "gridCols": 5,
+  "words": [
+    {
+      "wordId": "1",
+      "englishWord": "CAR",
+      "arabicDefinition": "مركبة آلية ذات أربع عجلات تُستخدم للتنقل والقيادة",
+      "arabicTranslation": "سيارة",
+      "startRow": 1,
+      "startCol": 1,
+      "direction": "HORIZONTAL"
+    },
+    {
+      "wordId": "2",
+      "englishWord": "RED",
+      "arabicDefinition": "لون الدم أو الطماطم الناضجة",
+      "arabicTranslation": "أحمر",
+      "startRow": 1,
+      "startCol": 3,
+      "direction": "VERTICAL"
+    }
+  ]
+}

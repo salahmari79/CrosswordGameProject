@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الكلمات المتقاطعة</string>
+    <string name="default_web_client_id">1058110533614-d9divbje99dtj9cuspfnk54j6er6jnjm.apps.googleusercontent.com</string>
+
+    <!-- Facebook Config -->
+    <string name="facebook_app_id">1493762242134311</string>
+    <string name="fb_login_protocol_scheme">fb1493762242134311</string>
+    <string name="facebook_client_token">0f9fa9f9d5e9f68ad1eed6d7b5142d68</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1058110533614",
+    "project_id": "crosswordgameproject",
+    "storage_bucket": "crosswordgameproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058110533614:android:2adf35f86561549b5a68ff",
+        "android_client_info": {
+          "package_name": "com.example.crosswordgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058110533614-d9divbje99dtj9cuspfnk54j6er6jnjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9fPZ7sI1QjtSK-IwRkNqEOJf5uwMU0iM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058110533614-d9divbje99dtj9cuspfnk54j6er6jnjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

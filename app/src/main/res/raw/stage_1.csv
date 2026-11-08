@@ -1,0 +1,588 @@
+English Word	Part of Speech	Arabic Meaning	Memory Hint	Category
+Hello	intj.	مرحباً	تقال عند التحية أو بدء مكالمة	Greetings
+Goodbye	intj.	وداعاً	تقال عند المغادرة أو إنهاء المكالمة	Greetings
+Hi	intj.	أهلاً	تحية غير رسمية	Greetings
+Bye	intj.	إلى اللقاء	تقال عند المغادرة	Greetings
+Good morning	intj.	صباح الخير	تحية تقال في الصباح	Greetings
+Good afternoon	intj.	مساء الخير	تحية تقال بعد الظهر	Greetings
+Good evening	intj.	مساء الخير	تحية تقال في المساء	Greetings
+Good night	intj.	تصبح على خير	تقال ليلةً قبل النوم	Greetings
+Thank you	intj.	شكراً لك	للتعبير عن الامتنان	Greetings
+Thanks	intj.	شكراً	طريقة غير رسمية للشكر	Greetings
+Please	adv.	من فضلك	تستخدم للتأدب عند الطلب	Greetings
+OK	intj.	حسناً	لإظهار الموافقة	Greetings
+Yes	intj.	نعم	لإظهار الموافقة أو صحة شيء	Greetings
+No	intj.	لا	لإظهار الرفض أو خطأ شيء	Greetings
+Sorry	intj.	آسف	للاعتذار أو التعبير عن الإحراج	Greetings
+Welcome	intj.	أهلاً بك	ترحيب بالشخص عند وصوله	Greetings
+Man	n.	رجل	شخص بالغ ذكر	People
+Woman	n.	امرأة	شخص بالغ أنثى	People
+Boy	n.	ولد	طفل ذكر	People
+Girl	n.	بنت	طفلة أنثى	People
+Friend	n.	صديق	شخص نعرفه ونثق به وليس من العادة	People
+Boyfriend	n.	حبيب	رجل تحبه وترتبط معه	People
+Girlfriend	n.	حبيبة	سيدة تحبها وترتبط معها	People
+Person	n.	شخص	إنسان واحد بغض النظر عن الجنس أو العمر	People
+People	n.	ناس	مجموعة من البشر	People
+Adult	n.	بالغ	رجل أو امرأة مكتملة النمو	People
+Baby	n.	طفل رضيع	طفل صغير جداً لا يستطيع المشي أو الكلام	People
+Mr	n.	سيد	لقب يسبق اسم الرجل للتهذيب أو الرسمية	People
+Mrs	n.	سيدة	لقب يسبق اسم المرأة المتزوجة	People
+Miss	n.	آنسة	لقب يسبق اسم العائلة لامرأة غير متزوجة	People
+Zero	num.	صفر	الرقم 0	Numbers
+One	num.	واحد	الرقم 1	Numbers
+Two	num.	اثنان	الرقم 2	Numbers
+Three	num.	ثلاثة	الرقم 3	Numbers
+Four	num.	أربعة	الرقم 4	Numbers
+Five	num.	خمسة	الرقم 5	Numbers
+Six	num.	ستة	الرقم 6	Numbers
+Seven	num.	سبعة	الرقم 7	Numbers
+Eight	num.	ثمانية	الرقم 8	Numbers
+Nine	num.	تسعة	الرقم 9	Numbers
+Ten	num.	عشرة	الرقم 10	Numbers
+Eleven	num.	أحد عشر	الرقم 11	Numbers
+Twelve	num.	اثنا عشر	الرقم 12	Numbers
+Thirteen	num.	ثلاثة عشر	الرقم 13	Numbers
+Fourteen	num.	أربعة عشر	الرقم 14	Numbers
+Fifteen	num.	خمسة عشر	الرقم 15	Numbers
+Sixteen	num.	ستة عشر	الرقم 16	Numbers
+Seventeen	num.	سبعة عشر	الرقم 17	Numbers
+Eighteen	num.	ثمانية عشر	الرقم 18	Numbers
+Nineteen	num.	تسعة عشر	الرقم 19	Numbers
+Twenty	num.	عشرون	الرقم 20	Numbers
+Thirty	num.	ثلاثون	الرقم 30	Numbers
+Forty	num.	أربعون	الرقم 40	Numbers
+Fifty	num.	خمسون	الرقم 50	Numbers
+Sixty	num.	ستون	الرقم 60	Numbers
+Seventy	num.	سبعون	الرقم 70	Numbers
+Eighty	num.	ثمانون	الرقم 80	Numbers
+Ninety	num.	تسعون	الرقم 90	Numbers
+Hundred	num.	مائة	الرقم 100	Numbers
+Black	adj.	أسود	لون الغراب	Colors
+White	adj.	أبيض	لون الثلج	Colors
+Blue	adj.	أزرق	لون المحيط أو السماء الصافية نهاراً	Colors
+Green	adj.	أخضر	لون العشب الطازج أو أوراق النبات	Colors
+Yellow	adj.	أصفر	لون الليمون أو الشمس	Colors
+Red	adj.	أحمر	لون الطماطم أو الدم	Colors
+Pink	adj.	وردي	لون آيس كريم الفراولة	Colors
+Orange	adj.	برتقالي	لون الجزر أو اليقطين	Colors
+Purple	adj.	بنفسجي	لون الباذنجان الناضج	Colors
+Gray	adj.	رمادي	بين الأبيض والأسود مثل الكوالا	Colors
+Brown	adj.	بني	لون آيس كريم الشوكولاتة	Colors
+Dark	adj.	داكن	للون درجة عميقة أو قوية	Colors
+Light	adj.	فاتح	للون درجة أقل شدة بسبب قلة الصبغة	Colors
+Color	n.	لون	صفة مثل أحمر، أخضر، أزرق نراها بالنظر	Colors
+Month	n.	شهر	واحد من اثني عشر قسماً مسماً من السنة	Months and Seasons
+January	n.	يناير	الشهر الأول	Months and Seasons
+February	n.	فبراير	الشهر الثاني	Months and Seasons
+March	n.	مارس	الشهر الثالث	Months and Seasons
+April	n.	أبريل	الشهر الرابع	Months and Seasons
+May	n.	مايو	الشهر الخامس	Months and Seasons
+June	n.	يونيو	الشهر السادس	Months and Seasons
+July	n.	يوليو	الشهر السابع	Months and Seasons
+August	n.	أغسطس	الشهر الثامن	Months and Seasons
+September	n.	سبتمبر	الشهر التاسع	Months and Seasons
+October	n.	أكتوبر	الشهر العاشر	Months and Seasons
+November	n.	نوفمبر	الشهر الحادي عشر	Months and Seasons
+December	n.	ديسمبر	الشهر الثاني عشر	Months and Seasons
+Season	n.	فصل	فترة زمنية تقسم السنة إليها كالشتاء والصيف	Months and Seasons
+Spring	n.	ربيع	الفصل الذي يأتي بعد الشتاء وتنمو فيه الأزهار	Months and Seasons
+Summer	n.	صيف	الفصل الأكثر دفئاً	Months and Seasons
+Fall	n.	خريف	الفصل الذي تتساقط فيه الأوراق	Months and Seasons
+Winter	n.	شتاء	الفصل الأكثر برودة	Months and Seasons
+Clock	n.	ساعة (حائطية)	جهاز يستخدم لقياس وعرض الوقت	Time and Date
+Year	n.	سنة	فترة زمنية مكونة من اثني عشر شهراً	Time and Date
+Time	n.	وقت	الكمية المقاسة بالثواني والدقائق والساعات	Time and Date
+Date	n.	تاريخ	يوم محدد في شهر أو سنة	Time and Date
+Day	n.	يوم	فترة زمنية من 24 ساعة	Time and Date
+Hour	n.	ساعة	كل فترة من أربع وعشرين فترة في اليوم	Time and Date
+O'clock	adv.	بالتحديد (الساعة)	توضع بعد الأرقام من 1 إلى 12 لإظهار الساعة بالضبط	Time and Date
+Minute	n.	دقيقة	كل جزء من الستين جزءاً التي تشكل الساعة	Time and Date
+Second	n.	ثانية	وحدة الوقت القياسية	Time and Date
+Morning	n.	صباح	وقت اليوم بين شروق الشمس والظهر	Time and Date
+Afternoon	n.	بعد الظهر	وقت اليوم بين الظهر وغروب الشمس	Time and Date
+Evening	n.	مساء	وقت اليوم بين غروب الشمس والظلام الكامل	Time and Date
+Night	n.	ليل	وقت غروب الشمس ويحل الظلام وننام فيه	Time and Date
+Week	n.	أسبوع	فترة زمنية من سبعة أيام	Time and Date
+Sunday	n.	الأحد	اليوم الذي يأتي بعد السبت	Time and Date
+Monday	n.	الاثنين	اليوم الذي يأتي بعد الأحد	Time and Date
+Tuesday	n.	الثلاثاء	اليوم الذي يأتي بعد الاثنين	Time and Date
+Wednesday	n.	الأربعاء	اليوم الذي يأتي بعد الثلاثاء	Time and Date
+Thursday	n.	الخميس	اليوم الذي يأتي بعد الأربعاء	Time and Date
+Friday	n.	الجمعة	اليوم الذي يأتي بعد الخميس	Time and Date
+Saturday	n.	السبت	اليوم الذي يأتي بعد الجمعة	Time and Date
+Weekend	n.	عطلة نهاية الأسبوع	عادة السبت والأحد عندما لا يذهب الناس للعمل أو المدرسة	Time and Date
+Next	adj.	التالي	يأتي فوراً بعد شخص أو شيء في الزمان أو المكان أو الرتبة	Time and Date
+Half	n.	نصف	أحد جزأين متساويين من شيء	Time and Date
+Name	n.	اسم	الكلمة التي يُدعى بها شخص أو شيء	Personal Information
+Last name	n.	اسم العائلة	الاسم الذي نشاركه مع عائلتنا أو والدينا أو أشقائنا	Personal Information
+Age	n.	عمر	عدد السنوات التي وجد فيها شيء أو كان شخص على قيد الحياة	Personal Information
+Address	n.	عنوان	المعلومات التي تساعدنا في العثور على مكان	Personal Information
+Birthday	n.	عيد ميلاد	يوم وشهر ميلادك في كل عام	Personal Information
+Birthdate	n.	تاريخ الميلاد	التاريخ بما في ذلك اليوم والشهر والسنة الذي ولد فيه شخص	Personal Information
+Single	adj.	أعزب	ليس في علاقة أو زواج	Personal Information
+Married	adj.	متزوج	لديه زوج أو زوجة	Personal Information
+Passport	n.	جواز سفر	وثيقة رسمية تحدد الشخص كمواطن من بلد معين	Personal Information
+Phone number	n.	رقم الهاتف	الرقم المستخدم للاتصال بهاتف شخص ما	Personal Information
+Question	n.	سؤال	جملة أو عبارة أو كلمة تستخدم لطلب المعلومات	Personal Information
+Answer	n.	إجابة	شيء نقوله أو نكتبه أو نفعله عند الرد على سؤال	Personal Information
+Body	n.	جسم	أيدينا وأرجلنا ورأسنا وكل جزء آخر معاً	The Body
+Hand	n.	يد	جزء من الجسم في نهاية الذراع نستخدمه للإمساك والتحريك والشعور	The Body
+Arm	n.	ذراع	أحد جزأين الجسم المتصلين بالكتف والمنتهيين بالأصابع	The Body
+Foot	n.	قدم	جزء الجسم في نهاية الساق الذي نقف ونمشي عليه	The Body
+Head	n.	رأس	الجزء العلوي من الجسم حيث يوجد الدماغ والوجه	The Body
+Leg	n.	ساق	كل من جزأين الجسم الطويلين اللذين نستخدمهما عند المشي	The Body
+Knee	n.	ركبة	جزء الجسم في منتصف الساق يساعدها على الانحناء	The Body
+Back	n.	ظهر	جزء الجسم بين الرقبة والساقين لا نستطيع رؤيته	The Body
+Stomach	n.	معدة	جزء الجسم داخل جسمنا حيث يذهب الطعام الذي نأكله	The Body
+Hair	n.	شعر	الأشياء الخيطية الرفيعة التي تنمو على رأسنا	The Head and Face
+Neck	n.	رقبة	جزء الجسم الذي يربط الرأس بالكتفين	The Head and Face
+Face	n.	وجه	الجزء الأمامي من رأسنا حيث توجد أعيننا وشفاهنا وأنفنا	The Head and Face
+Eye	n.	عين	جزء من الجسم على وجهنا نستخدمه للرؤية	The Head and Face
+Nose	n.	أنف	جزء الجسم في منتصف وجهنا يستخدم للشم والتنفس	The Head and Face
+Ear	n.	أذن	كل من جزأي الجسم اللذين نستخدمهما للسمع	The Head and Face
+Cheek	n.	خد	أي من جانبي وجهنا الناعمين الموجودين أسفل أعيننا	The Head and Face
+Chin	n.	ذقن	أدنى جزء من وجهنا أسفل الفم	The Head and Face
+Mouth	n.	فم	جزء الجسم المستخدم للأكل والتحدث والتنفس	The Head and Face
+Tooth	n.	سن	واحد من الأجزاء البيضاء الصلبة في فمنا تستخدم لمضغ الطعام وقضمه	The Head and Face
+Lip	n.	شفة	كل من جزأي الجسم الناعمين اللذين يحيطان بفمنا	The Head and Face
+Good	adj.	جيد	يمتلك جودة مرضية، يتصرف بطريقة صحيحة أخلاقياً	Opposite Adjectives
+Bad	adj.	سيء	يمتلك جودة غير مرضية، غير مقبول أخلاقياً	Opposite Adjectives
+High	adj.	مرتفع	له قيمة أو مستوى أكبر من المعتاد أو المتوقع	Opposite Adjectives
+Low	adj.	منخفض	صغير أو أقل من المتوسط في الدرجة أو القيمة أو المستوى أو الكمية	Opposite Adjectives
+Big	adj.	كبير	فوق المتوسط في الحجم أو المدى	Opposite Adjectives
+Small	adj.	صغير	أقل من المتوسط في الحجم الفيزيائي	Opposite Adjectives
+Heavy	adj.	ثقيل	له وزن كبير وليس من السهل تحريكه أو حمله	Opposite Adjectives
+Light	adj.	خفيف (وزناً)	له وزن صغير جداً وسهل التحريك أو الحمل	Opposite Adjectives
+Expensive	adj.	غالي	له سعر مرتفع	Opposite Adjectives
+Cheap	adj.	رخيص	له سعر منخفض	Opposite Adjectives
+Old	adj.	قديم (لشيء)	تم استخدامه أو وجوده لفترة طويلة من الزمن	Opposite Adjectives
+New	adj.	جديد	تم اختراعه أو صنعه مؤخراً	Opposite Adjectives
+Beautiful	adj.	جميل	مُرضٍ للغاية للعقل أو الحواس	Opposite Adjectives
+Ugly	adj.	قبيح	غير مُرضٍ للعقل أو الحواس	Opposite Adjectives
+Clean	adj.	نظيف	لا يحتوي على أي بكتيريا أو علامات أو أوساخ	Opposite Adjectives
+Dirty	adj.	قذر	يحتوي على بقع أو بكتيريا أو علامات أو أوساخ	Opposite Adjectives
+Easy	adj.	سهل	لا يحتاج إلى مهارة أو جهد كبير للقيام به أو فهمه	Opposite Adjectives
+Difficult	adj.	صعب	يحتاج إلى الكثير من العمل أو المهارة للقيام به أو فهمه أو التعامل معه	Opposite Adjectives
+Fast	adj.	سريع	له سرعة عالية عند القيام بشيء ما خاصة الحركة	Opposite Adjectives
+Slow	adj.	بطيء	يتحرك أو يحدث أو يتم بسرعة منخفضة	Opposite Adjectives
+Different	adj.	مختلف	ليس مثل شيء أو شخص آخر في الشكل أو الجودة أو الطبيعة	Opposite Adjectives
+Same	adj.	نفسه	مثل شيء أو شخص آخر في كل شيء	Opposite Adjectives
+Right	adj.	صحيح	بناءً على الحقائق أو الحقيقة	Opposite Adjectives
+Wrong	adj.	خاطئ	ليس بناءً على الحقائق أو الحقيقة	Opposite Adjectives
+Open	adj.	مفتوح	يسمح للأشياء أو الأشخاص بالمرور من خلاله	Opposite Adjectives
+Closed	adj.	مغلق	لا يسمح للأشياء أو الأشخاص بالدخول أو الخروج	Opposite Adjectives
+TRUE	adj.	حقيقي	وفقاً للواقع أو الحقائق	Opposite Adjectives
+FALSE	adj.	زائف	ليس وفقاً للواقع أو الحقائق	Opposite Adjectives
+Rich	adj.	غني	يمتلك كمية كبيرة من المال أو الأشياء التي تكلف الكثير	Opposite Adjectives
+Poor	adj.	فقير	يمتلك كمية صغيرة جداً من المال أو عدد صغير جداً من الأشياء	Opposite Adjectives
+Sure	adj.	متأكد	شخص واثق من صحة أو خطأ شيء ما	Opposite Adjectives
+Unsure	adj.	غير متأكد	لديه شكوك أو لا ثقة في شخص ما أو شيء ما	Opposite Adjectives
+Correct	adj.	صحيح	دقيق ومتوافق مع الواقع أو الحقيقة	Opposite Adjectives
+Incorrect	adj.	غير صحيح	لديه أخطاء أو عدم دقة	Opposite Adjectives
+Building	n.	مبنى	هيكل له جدران وسقف	House and Apartment
+House	n.	منزل	مبنى يسكنه الناس	House and Apartment
+Home	n.	بيت/منزل	المكان الذي نعيش فيه	House and Apartment
+Apartment	n.	شقة	مساحة معيشية داخل مبنى أكبر	House and Apartment
+Floor	n.	أرضية	السطح الذي نمشي عليه في الغرفة	House and Apartment
+Door	n.	باب	حاجز متحرك للدخول أو الخروج	House and Apartment
+Window	n.	نافذة	مساحة زجاجية للضوء أو الهواء	House and Apartment
+Wall	n.	جدار	هيكل عمودي لتقسيم المساحات	House and Apartment
+Room	n.	غرفة	مساحة في مبنى للأنشطة	House and Apartment
+Roof	n.	سقف (خارجي)	الغطاء العلوي للمبنى	House and Apartment
+Ceiling	n.	سقف (داخلي)	السطح الداخلي العلوي للغرفة	House and Apartment
+Living room	n.	غرفة معيشة	غرفة للاسترخاء أو التواصل الاجتماعي	House and Apartment
+Dining room	n.	غرفة طعام	غرفة لتناول الوجبات	House and Apartment
+Kitchen	n.	مطبخ	غرفة لطهي الطعام	House and Apartment
+Bedroom	n.	غرفة نوم	غرفة للنوم	House and Apartment
+Bathroom	n.	حمام	غرفة بها مرحاض وحوض	House and Apartment
+Garden	n.	حديقة	أرض بالقرب من المنزل لزراعة النباتات	House and Apartment
+Upstairs	adv.	الطابق العلوي	في مستوى أعلى من المبنى	House and Apartment
+Downstairs	adv.	الطابق السفلي	في مستوى أقل من المبنى	House and Apartment
+Closet	n.	خزانة حائط	مساحة تخزين صغيرة في الحائط	House and Apartment
+Part	n.	جزء	قطعة من شيء أكبر	House and Apartment
+Elevator	n.	مصعد	صندوق متحرك للصعود أو النزول	House and Apartment
+Yard	n.	فناء	أرض بالقرب من المنزل للعشب أو النباتات	House and Apartment
+Desk	n.	مكتب (طاولة)	أثاث للعمل أو الكتابة	Furniture and Home Appliances
+Chair	n.	كرسي	أثاث للجلوس	Furniture and Home Appliances
+Table	n.	طاولة	أثاث لوضع الأشياء أو الأكل	Furniture and Home Appliances
+Sofa	n.	أريكة	مقعد ناعم لعدة أشخاص	Furniture and Home Appliances
+Bed	n.	سرير	أثاث للنوم	Furniture and Home Appliances
+Cabinet	n.	خزانة	أثاث تخزين بأرفف أو أدراج	Furniture and Home Appliances
+Fridge	n.	ثلاجة	جهاز لحفظ الطعام بارداً	Furniture and Home Appliances
+TV	n.	تلفاز	شاشة لمشاهدة البرامج	Furniture and Home Appliances
+Stove	n.	موقد	معدات لطهي الطعام	Furniture and Home Appliances
+Money	n.	نقود	ما نستخدمه لشراء وبيع الأشياء	Jobs
+Job	n.	وظيفة	عمل نقوم به لكسب المال	Jobs
+Work	n.	عمل	نشاط يتم لكسب المال	Jobs
+Doctor	n.	طبيب	شخص يعالج المرضى	Jobs
+Dentist	n.	طبيب أسنان	شخص يعتني بالأسنان	Jobs
+Nurse	n.	ممرض/ممرضة	شخص مدرب لرعاية المرضى	Jobs
+Teacher	n.	معلم	شخص يدرس في مدرسة	Jobs
+Engineer	n.	مهندس	شخص يصمم أو يبني الأشياء	Jobs
+Actor	n.	ممثل	شخص يؤدي في الأفلام أو المسرحيات	Jobs
+Actress	n.	ممثلة	امرأة تؤدي في الأفلام أو المسرحيات	Jobs
+Police officer	n.	ضابط شرطة	شخص يحمي الناس وينفذ القوانين	Jobs
+Waiter	n.	نادل (مذكر)	رجل يقدم الطعام في المطاعم	Jobs
+Waitress	n.	نادلة (مؤنث)	امرأة تقدم الطعام في المطاعم	Jobs
+Driver	n.	سائق	شخص يقود مركبة	Jobs
+Clothes	n.	ملابس	أشياء نرتديها لتغطية أجسادنا	Clothes and Shoes
+Shirt	n.	قميص	قطعة علوية بأكمام وأزرار	Clothes and Shoes
+T-shirt	n.	تي شيرت	قطعة علوية غير رسمية قصيرة الأكمام	Clothes and Shoes
+Pants	n.	بنطلون	ملابس تغطي كلا الساقين	Clothes and Shoes
+Dress	n.	فستان	ملابس من قطعة واحدة للنساء	Clothes and Shoes
+Skirt	n.	تنورة	قطعة ملابس تلبس حول الخصر	Clothes and Shoes
+Coat	n.	معطف	ملابس خارجية للدفء أو المطر	Clothes and Shoes
+Jacket	n.	سترة	معطف قصير بأكمام	Clothes and Shoes
+Jeans	n.	جينز	بنطلون دنيم للملابس غير الرسمية	Clothes and Shoes
+Sweater	n.	كنزة صوفية	قطعة علوية دافئة طويلة الأكمام	Clothes and Shoes
+Suit	n.	بدلة	سترة وبنطلون متطابقان	Clothes and Shoes
+Tie	n.	ربطة عنق	قماش ضيق يلبس حول الياقة	Clothes and Shoes
+Hat	n.	قبعة	ملابس تلبس على الرأس	Clothes and Shoes
+Purse	n.	حقيبة يد	حقيبة صغيرة لحمل الأغراض	Clothes and Shoes
+Shoe	n.	حذاء	ملابس للقدمين للحماية	Clothes and Shoes
+Boot	n.	حذاء طويل	حذاء قوي يغطي الكاحل	Clothes and Shoes
+Sock	n.	جورب	قماش ناعم يلبس على القدمين	Clothes and Shoes
+Pajamas	n.	بيجاما	ملابس تلبس للنوم	Clothes and Shoes
+Underwear	n.	ملابس داخلية	ملابس تلبس تحت الملابس الأخرى	Clothes and Shoes
+Swimsuit	n.	مايوه	ملابس تلبس للسباحة	Clothes and Shoes
+Animal	n.	حيوان	كائن حي يتحرك ويحتاج الطعام	Animals
+Cat	n.	قطة	حيوان أليف صغير فروي بذيل	Animals
+Dog	n.	كلب	حيوان أليف مخلص بأربع أرجل وذيل	Animals
+Horse	n.	حصان	حيوان كبير يستخدم للركوب والسباق	Animals
+Sheep	n.	خروف	حيوان مزرعة يُربى للصوف واللحم	Animals
+Cow	n.	بقرة	حيوان مزرعة يُربى للحليب واللحم	Animals
+Pig	n.	خنزير	حيوان مزرعة سمين بذيل ملتف	Animals
+Lion	n.	أسد	قط بري كبير بُعرْفة	Animals
+Rabbit	n.	أرنب	حيوان صغير بأذنين طويلتين وفراء ناعم	Animals
+Mouse	n.	فأر	حيوان صغير جداً بذيل طويل	Animals
+Snake	n.	ثعبان	حيوان طويل بلا أرجل يمكنه العض	Animals
+Fish	n.	سمك	حيوان مائي بزعانف وخياشيم	Animals
+Elephant	n.	فيل	حيوان ضخم بخرطوم	Animals
+Bird	n.	طائر	حيوان بريش وأجنحة	Animals
+Chicken	n.	دجاجة	طائر مزرعة يُربى للحوم والبيض	Animals
+Be	v.	يكون	للدلالة على الوجود	Basic Verbs
+Wake up	v.	يستيقظ	يتوقف عن النوم	Basic Verbs
+Sleep	v.	ينام	يرتاح وعيناه مغمضتان	Basic Verbs
+Work	v.	يعمل	يقوم بعمل لكسب المال	Basic Verbs
+Drive	v.	يقود	يتحكم بمركبة متحركة	Basic Verbs
+Buy	v.	يشتري	يحصل على شيء بدفع المال	Basic Verbs
+Sell	v.	يبيع	يعطي شيئاً مقابل المال	Basic Verbs
+Read	v.	يقرأ	يفهم الكلمات المكتوبة	Basic Verbs
+Write	v.	يكتب	يشكل كلمات على الورق	Basic Verbs
+Play	v.	يلعب	يقوم بنشاط للمتعة	Basic Verbs
+Pay	v.	يدفع	يعطي المال مقابل سلع أو خدمات	Basic Verbs
+Rest	v.	يستريح	يتوقف عن العمل ويسترخي	Basic Verbs
+Wash	v.	يغسل	ينظف بالماء أو الصابون	Basic Verbs
+Drink	v.	يشرب	يبتلع السوائل	Basic Verbs
+Cook	v.	يطبخ	يحضر الطعام بالحرارة	Basic Verbs
+Eat	v.	يأكل	يمضغ ويبتلع الطعام	Basic Verbs
+Have	v.	يملك/يتناول	يمتلك أو يستهلك شيئاً	Basic Verbs
+Make	v.	يصنع	يخلق أو يبني شيئاً	Basic Verbs
+Wear	v.	يرتدي	يلبس الملابس	Basic Verbs
+Clean	v.	ينظف	يزيل الأوساخ أو البكتيريا	Basic Verbs
+Think	v.	يفكر	لديه فكرة أو اعتقاد	Basic Verbs
+Take	v.	يأخذ	يمد يده ويمسك بشيء	Basic Verbs
+Stand	v.	يقف	يكون منتصباً على القدمين	Basic Verbs
+Speak	v.	يتحدث	يستخدم كلمات للتعبير عن شيء	Basic Verbs
+Spell	v.	يهجي	يقول أو يكتب حروف الكلمة	Basic Verbs
+Dislike	v.	يكره	لا يحب شيئاً	Basic Verbs
+Add	v.	يضيف	يجمع الأشياء معاً	Basic Verbs
+Call	v.	ينادي/يتصل	يعطي اسماً أو لقباً	Basic Verbs
+Create	v.	يبتكر	يجلب شيئاً إلى الوجود	Basic Verbs
+Cut	v.	يقطع	يقسم بسكين حاد	Basic Verbs
+Dish	n.	طبق (إناء)	وعاء ضحل للطعام	Household Items
+Spoon	n.	ملعقة	أداة للأكل أو التحريك	Household Items
+Fork	n.	شوكة	أداة ذات أسنان للأكل	Household Items
+Knife	n.	سكين	أداة حادة للقطع	Household Items
+Plate	n.	صحن	طبق مسطح للطعام	Household Items
+Glass	n.	كأس (زجاج)	وعاء للمشروبات	Household Items
+Bottle	n.	زجاجة	وعاء للسوائل	Household Items
+Cup	n.	فنجان	وعاء صغير للمشروبات	Household Items
+Soap	n.	صابون	مادة للغسيل	Household Items
+Brush	n.	فرشاة	أداة للتنظيف أو التسريح	Household Items
+Toothbrush	n.	فرشاة أسنان	فرشاة لتنظيف الأسنان	Household Items
+Pillow	n.	وسادة	وسادة ناعمة للرأس	Household Items
+Trash can	n.	سلة مهملات	وعاء للقمامة	Household Items
+Box	n.	صندوق	وعاء لتخزين الأشياء	Household Items
+Thing	n.	شيء	كائن بدون اسم محدد	Household Items
+Ball	n.	كرة	شيء دائري يستخدم في الألعاب	Household Items
+Doll	n.	دمية	لعبة على شكل طفل صغير	Household Items
+Food	n.	طعام	ما يأكله الناس والحيوانات	Food and Ingredients
+Meat	n.	لحم	لحم حيوان يستخدم كطعام	Food and Ingredients
+Fish	n.	سمك (لحم)	لحم سمك صالح للأكل	Food and Ingredients
+Chicken	n.	دجاج (لحم)	لحم من الدجاج	Food and Ingredients
+Vegetable	n.	خضروات	نبات يستخدم كطعام	Food and Ingredients
+Cucumber	n.	خيار	فاكهة خضراء طويلة تستخدم في السلطات	Food and Ingredients
+Potato	n.	بطاطس	خضار دائري ينمو تحت الأرض	Food and Ingredients
+Onion	n.	بصل	خضار قوي الرائحة ذو طبقات	Food and Ingredients
+Tomato	n.	طماطم	فاكهة حمراء طرية تستخدم في السلطات	Food and Ingredients
+Carrot	n.	جزر	خضار برتقالي طويل	Food and Ingredients
+Pepper	n.	فلفل (توابل)	توابل حارة	Food and Ingredients
+Fruit	n.	فاكهة	نموات نباتية صالحة للأكل من الأشجار أو الشجيرات	Food and Ingredients
+Apple	n.	تفاح	فاكهة دائرية بقشرة حمراء أو صفراء أو خضراء	Food and Ingredients
+Orange	n.	برتقال	فاكهة عصارية دائرية بقشرة سميكة	Food and Ingredients
+Grape	n.	عنب	فاكهة صغيرة دائرية تنمو في عناقيد	Food and Ingredients
+Banana	n.	موز	فاكهة صفراء طويلة منحنية	Food and Ingredients
+Peach	n.	خوخ	فاكهة طرية عصارية بنواة	Food and Ingredients
+Lemon	n.	ليمون	فاكهة صفراء حامضة	Food and Ingredients
+Milk	n.	حليب	سائل أبيض من البقر أو الماعز أو الأغنام	Food and Ingredients
+Cheese	n.	جبن	منتج ألبان طري أو صلب	Food and Ingredients
+Butter	n.	زبدة	دهان أصفر طري يصنع من الكريمة	Food and Ingredients
+Egg	n.	بيضة	غذاء دائري ينتجه الدجاج	Food and Ingredients
+Cream	n.	كريمة	الجزء السميك من الحليب	Food and Ingredients
+Meal	n.	وجبة	طعام يؤكل في أوقات مختلفة من اليوم	Food and Drinks
+Breakfast	n.	إفطار	الوجبة الأولى في اليوم	Food and Drinks
+Lunch	n.	غداء	وجبة تؤكل في منتصف النهار	Food and Drinks
+Dinner	n.	عشاء	الوجبة الرئيسية عادة في المساء	Food and Drinks
+Tea	n.	شاي	مشروب يصنع من أوراق الشاي المجففة	Food and Drinks
+Coffee	n.	قهوة	مشروب ساخن يصنع من حبوب البن	Food and Drinks
+Cake	n.	كعكة	حلوى مخبوزة حلوة	Food and Drinks
+Cookie	n.	بسكويت	حلوى صغيرة مخبوزة حلوة	Food and Drinks
+Bread	n.	خبز	طعام مخبوز مصنوع من الدقيق	Food and Drinks
+Honey	n.	عسل	سائل حلو يصنعه النحل	Food and Drinks
+Jam	n.	مربى	دهان حلو سميك يصنع من الفاكهة	Food and Drinks
+Juice	n.	عصير	مشروب يصنع من الفواكه أو الخضروات	Food and Drinks
+Ice cream	n.	آيس كريم	حلوى باردة حلوة تصنع من الحليب	Food and Drinks
+Water	n.	ماء	سائل شفاف ضروري للحياة	Food and Drinks
+Rice	n.	أرز	حبات صغيرة بيضاء أو بنية تستخدم للطعام	Food and Drinks
+Chocolate milk	n.	حليب بالشوكولاتة	حليب ممزوج بالشوكولاتة	Food and Drinks
+Soup	n.	شوربة	طعام سائل يصنع بغلي المكونات	Food and Drinks
+Salad	n.	سلطة	خليط من الخضروات مع الصلصة	Food and Drinks
+Pizza	n.	بيتزا	خبز مسطح مغطى بالجبن والطماطم	Food and Drinks
+Sandwich	n.	ساندويش	خبز مع لحم أو جبن وما إلى ذلك بالداخل	Food and Drinks
+Sugar	n.	سكر	مادة حلوة من النباتات	Food and Drinks
+Salt	n.	ملح	مادة بيضاء تستخدم في الطعام	Food and Drinks
+Young	adj.	شاب	في المراحل المبكرة من الحياة	Describing People
+Old	adj.	عجوز/كبير	في المراحل المتأخرة من الحياة	Describing People
+Stupid	adj.	غبي	غير قادر على الفهم بسرعة	Describing People
+Thirsty	adj.	عطشان	بحاجة إلى شراب	Describing People
+Fat	adj.	سمين	يزن أكثر مما هو صحي	Describing People
+Thin	adj.	نحيف	يزن أقل مما هو صحي	Describing People
+Tall	adj.	طويل	له طول أكبر من المتوسط	Describing People
+Smart	adj.	ذكي	قادر على التعلم والتفكير بشكل جيد	Describing People
+Angry	adj.	غاضب	يشعر بالانزعاج الشديد	Describing People
+Fine	adj.	بخير	ليس مريضاً أو مصاباً أو سيئاً	Describing People
+Sad	adj.	حزين	يشعر بالسوء عاطفياً	Describing People
+Happy	adj.	سعيد	يشعر بالرضا عاطفياً	Describing People
+Hungry	adj.	جائع	بحاجة إلى طعام	Describing People
+Excited	adj.	متحمس	يشعر بالسعادة والطاقة	Describing People
+Ready	adj.	مستعد	تم تجهيزه لموقف أو مهمة	Describing People
+Weather	n.	طقس	ظروف الهواء والسماء	The Weather and Nature
+Fire	n.	نار	احتراق ينتج حرارة وضوءاً	The Weather and Nature
+Hot	adj.	حار	له درجة حرارة عالية	The Weather and Nature
+Cold	adj.	بارد	له درجة حرارة منخفضة	The Weather and Nature
+Sunny	adj.	مشمس	مشرق بسبب الشمس	The Weather and Nature
+Cloud	n.	غيمة	كتلة بيضاء أو رمادية في السماء	The Weather and Nature
+Cloudy	adj.	غائم	ممتلئ بالغيوم	The Weather and Nature
+Rain	n.	مطر	ماء يسقط من السماء	The Weather and Nature
+Rainy	adj.	ممطر	به الكثير من المطر	The Weather and Nature
+Snowy	adj.	مثلج	به الكثير من الثلج	The Weather and Nature
+Ice	n.	جليد	ماء متجمد	The Weather and Nature
+Nature	n.	طبيعة	كل شيء طبيعي على الأرض	The Weather and Nature
+Sun	n.	شمس	النجم الساطع الذي يعطي الضوء	The Weather and Nature
+Moon	n.	قمر	جسم دائري يُرى في الليل	The Weather and Nature
+Earth	n.	الأرض	الكوكب الذي نعيش عليه	The Weather and Nature
+Sky	n.	سماء	الفضاء فوق الأرض	The Weather and Nature
+River	n.	نهر	جريان طويل من الماء	The Weather and Nature
+Sea	n.	بحر	مساحة كبيرة من الماء المالح	The Weather and Nature
+Mountain	n.	جبل	تضاريس طبيعية طويلة	The Weather and Nature
+Beach	n.	شاطئ	أرض رملية بجانب الماء	The Weather and Nature
+Forest	n.	غابة	منطقة كبيرة من الأشجار	The Weather and Nature
+Island	n.	جزيرة	أرض محاطة بالماء	The Weather and Nature
+Star	n.	نجم	نقطة مضيئة في السماء	The Weather and Nature
+Tree	n.	شجرة	نبات طويل له أوراق	The Weather and Nature
+Flower	n.	زهرة	الجزء الملون من النبات الذي يصنع البذور أو الثمار	The Weather and Nature
+Hear	v.	يسمع	يلاحظ صوتاً	Useful Verbs
+Listen	v.	يستمع	يركز على صوت	Useful Verbs
+See	v.	يرى	يلاحظ بعينيه	Useful Verbs
+Look	v.	ينظر	يدير عينيه نحو شيء	Useful Verbs
+Watch	v.	يشاهد	ينظر إلى شيء لفترة	Useful Verbs
+Touch	v.	يلمس	يضع يده على شيء	Useful Verbs
+Feel	v.	يشعر	يحس أو يختبر عواطف	Useful Verbs
+Talk	v.	يتحدث	يعبر عن الأفكار بالكلمات	Useful Verbs
+Call	v.	يتصل	يتصل هاتفياً بشخص	Useful Verbs
+Like	v.	يحب	يستمتع أو يجد شيئاً جيداً	Useful Verbs
+Love	v.	يحب (بشدة)	يهتم بعمق بشخص أو شيء	Useful Verbs
+Hate	v.	يكره	يكره شيئاً بشدة	Useful Verbs
+Know	v.	يعرف	لديه معلومات	Useful Verbs
+Learn	v.	يتعلم	يكتسب معرفة أو مهارات	Useful Verbs
+Ask	v.	يسأل	يطلب معلومات	Useful Verbs
+Study	v.	يدرس	يتعلم من خلال القراءة أو المدرسة	Useful Verbs
+Teach	v.	يعلم	يعطي دروساً للآخرين	Useful Verbs
+Need	v.	يحتاج	يتطلب شيئاً مهماً	Useful Verbs
+Want	v.	يريد	يتمنى امتلاك شيء	Useful Verbs
+Share	v.	يشارك	يستخدم أو يعطي شيئاً مع الآخرين	Useful Verbs
+Put	v.	يضع	ينقل شيئاً إلى مكان	Useful Verbs
+Prepare	v.	يحضر	يستعد لشيء	Useful Verbs
+Plan	v.	يخطط	يقرر مسبقاً	Useful Verbs
+Explain	v.	يشرح	يجعل شيئاً واضحاً	Useful Verbs
+Fill	v.	يملأ	يجعل ممتلئاً	Useful Verbs
+Fly	v.	يطير	يتحرك عبر الهواء	Useful Verbs
+Get	v.	يصبح/يحصل	يعاني من حالة أو يحصل على شيء	Useful Verbs
+Become	v.	يصبح	يبدأ في أن يكون شيئاً	Useful Verbs
+School	n.	مدرسة	مكان يتعلم فيه الأطفال	School
+College	n.	كلية	مكان للتعليم العالي	School
+University	n.	جامعة	مكان للدراسات المتقدمة والشهادات	School
+Preschool	n.	روضة	مكان للأطفال الصغار للتعلم واللعب	School
+Classroom	n.	فصل دراسي	غرفة يدرس فيها الطلاب	School
+Student	n.	طالب	شخص يدرس في مدرسة أو جامعة	School
+Book	n.	كتاب	صفحات مطبوعة مجلدة معاً للقراءة	School
+Notebook	n.	دفتر ملاحظات	كتاب صغير للكتابة أو الرسم	School
+Bag	n.	حقيبة	وعاء يستخدم لحمل الأشياء	School
+Pen	n.	قلم حبر	أداة للكتابة بالحبر	School
+Pencil	n.	قلم رصاص	أداة للكتابة أو الرسم بالرصاص	School
+Eraser	n.	ممحاة	أداة لإزالة علامات القلم الرصاص	School
+Marker	n.	قلم تحديد	قلم برأس سميك	School
+Homework	n.	واجب منزلي	عمل مدرسي ينجز في المنزل	School
+History	n.	تاريخ	دراسة الأحداث الماضية	School
+Language	n.	لغة	نظام تواصل منطوق أو مكتوب	School
+Science	n.	علوم	دراسة العالم الطبيعي	School
+Class	n.	صف	مجموعة من الطلاب يتعلمون معاً	School
+City	n.	مدينة	منطقة كبيرة مأهولة بالسكان	City
+Town	n.	بلدة	منطقة أصغر من المدينة	City
+Street	n.	شارع	مسار عام للمركبات	City
+Bank	n.	بنك	مكان لحفظ المال وإقراضه	City
+Hospital	n.	مستشفى	مكان للرعاية الطبية	City
+Restaurant	n.	مطعم	مكان لتناول الوجبات	City
+Movie theater	n.	سينما	مكان لمشاهدة الأفلام	City
+Supermarket	n.	سوبر ماركت	متجر كبير للطعام واللوازم	City
+Post office	n.	مكتب بريد	مكان لإرسال الرسائل والطرود	City
+Bench	n.	مقعد (عام)	مقعد طويل لعدة أشخاص	City
+Museum	n.	متحف	مكان للعناصر الثقافية والتاريخية	City
+Park	n.	حديقة عامة	مكان عام به عشب وأشجار	City
+Hotel	n.	فندق	مكان للإقامة أثناء السفر	City
+Police	n.	شرطة	أشخاص ينفذون القوانين	City
+Map	n.	خريطة	صورة تظهر المواقع	City
+Hobby	n.	هواية	نشاط ممتع يمارس في وقت الفراغ	Free Time Activities
+Movie	n.	فيلم	قصة تُروى بصور متحركة	Free Time Activities
+Music	n.	موسيقى	أصوات مرتبة بطريقة ممتعة	Free Time Activities
+Guitar	n.	غيتار	آلة ذات ستة أوتار تعزف بالنتف	Free Time Activities
+Piano	n.	بيانو	آلة لوحة مفاتيح تعزف بالضغط على المفاتيح	Free Time Activities
+Violin	n.	كمان	آلة وتريات تعزف بالقوس	Free Time Activities
+Swimming	n.	سباحة	التحرك في الماء باستخدام الذراعين والساقين	Free Time Activities
+Soccer	n.	كرة قدم	رياضة يركل فيها اللاعبون الكرة لتسجيل الأهداف	Free Time Activities
+Volleyball	n.	كرة طائرة	رياضة يضرب فيها اللاعبون الكرة فوق شبكة	Free Time Activities
+Hiking	n.	تنزه	المشي لمسافات طويلة في الطبيعة للمتعة	Free Time Activities
+Tennis	n.	تنس	رياضة تلعب بمضارب وكرة	Free Time Activities
+Bicycle	n.	دراجة هوائية	مركبة بعجلتين تعمل بالدوس	Free Time Activities
+Sport	n.	رياضة	نشاط تنافسي جسدي	Free Time Activities
+Game	n.	لعبة	نشاط ممتع باستخدام الخيال أو الألعاب	Free Time Activities
+Video game	n.	لعبة فيديو	لعبة رقمية تلعب على كمبيوتر أو جهاز ألعاب	Free Time Activities
+Newspaper	n.	جريدة	أوراق مطبوعة تحتوي على أخبار ومعلومات	Free Time Activities
+Magazine	n.	مجلة	كتاب رقيق ملون به قصص وصور	Free Time Activities
+Country	n.	دولة	أرض ذات حدود وحكومة	Countries and Nationalities
+United States	n.	الولايات المتحدة	دولة في أمريكا الشمالية تضم 50 ولاية	Countries and Nationalities
+American	adj.	أمريكي	متعلق بالولايات المتحدة أو شعبها	Countries and Nationalities
+Canada	n.	كندا	دولة كبيرة في أمريكا الشمالية	Countries and Nationalities
+Canadian	adj.	كندي	متعلق بكندا أو شعبها	Countries and Nationalities
+United Kingdom	n.	المملكة المتحدة	دولة في أوروبا بأربعة أجزاء	Countries and Nationalities
+British	adj.	بريطاني	متعلق بالمملكة المتحدة أو شعبها	Countries and Nationalities
+Germany	n.	ألمانيا	دولة في وسط أوروبا	Countries and Nationalities
+German	adj.	ألماني	متعلق بألمانيا أو شعبها	Countries and Nationalities
+France	n.	فرنسا	دولة أوروبية ذات معالم مشهورة	Countries and Nationalities
+French	adj.	فرنسي	متعلق بفرنسا أو شعبها	Countries and Nationalities
+Spain	n.	إسبانيا	دولة في جنوب غرب أوروبا	Countries and Nationalities
+Spanish	adj.	إسباني	متعلق بإسبانيا أو شعبها	Countries and Nationalities
+Italy	n.	إيطاليا	دولة أوروبية ذات ساحل طويل	Countries and Nationalities
+Italian	adj.	إيطالي	متعلق بإيطاليا أو شعبها	Countries and Nationalities
+Walk	v.	يمشي	يتحرك إلى الأمام على الأقدام	Simple Verbs
+Run	v.	يركض	يتحرك بسرعة على الأقدام	Simple Verbs
+Go	v.	يذهب	يتحرك إلى مكان آخر	Simple Verbs
+Come	v.	يأتي	يتحرك نحو شخص أو شيء	Simple Verbs
+Sit	v.	يجلس	يرتاح بمقعده على سطح	Simple Verbs
+Fall	v.	يسقط	يتحرك بسرعة نحو الأسفل	Simple Verbs
+Jump	v.	يقفز	يدفع نفسه عن الأرض في الهواء	Simple Verbs
+Bring	v.	يجلب	يأخذ شيئاً إلى مكان	Simple Verbs
+Give	v.	يعطي	يسلم شيئاً لشخص	Simple Verbs
+Find	v.	يجد	يكتشف شيئاً مفقوداً	Simple Verbs
+Open	v.	يفتح	يحرك شيئاً ليكون غير مغلق	Simple Verbs
+Close	v.	يغلق	يغلق شيئاً	Simple Verbs
+Start	v.	يبدأ	يبدأ شيئاً	Simple Verbs
+Stop	v.	يتوقف	يجعل شيئاً لا يتحرك	Simple Verbs
+Finish	v.	ينهي	يجلب شيئاً إلى النهاية	Simple Verbs
+Build	v.	يبني	يصنع شيئاً بوضع أجزاء معاً	Simple Verbs
+Do	v.	يفعل	يقوم بعمل ما	Simple Verbs
+Get	v.	يحصل على	يتلقى أو يحصل على شيء	Simple Verbs
+Turn	v.	يدير	يدور أو يتحرك في اتجاه آخر	Simple Verbs
+Introduce	v.	يقدم	يقول اسم شخص لأول مرة	Simple Verbs
+Travel	v.	يسافر	يذهب إلى مكان بعيد	Simple Verbs
+Let	v.	يسمح	يسمح بحدوث شيء	Simple Verbs
+Choose	v.	يختار	يختار خياراً واحداً من مجموعة	Simple Verbs
+Help	v.	يساعد	يساعد شخصاً	Simple Verbs
+Swim	v.	يسبح	يتحرك في الماء	Simple Verbs
+Car	n.	سيارة	مركبة بأربع عجلات للطرق	Transportation
+Motorcycle	n.	دراجة نارية	مركبة بمحرك وعجلتين	Transportation
+Bus	n.	حافلة	مركبة كبيرة للعديد من الركاب	Transportation
+Truck	n.	شاحنة	مركبة كبيرة لحمل البضائع	Transportation
+Train	n.	قطار	عربات متصلة تسير على قضبان	Transportation
+Taxi	n.	تاكسي	خدمة سيارات مدفوعة الأجر للنقل	Transportation
+Subway	n.	مترو أنفاق	نظام سكك حديدية تحت الأرض	Transportation
+Airplane	n.	طائرة	مركبة طائرة بأجنحة	Transportation
+Helicopter	n.	هليكوبتر	مركبة طائرة بشفرات دوارة	Transportation
+Ship	n.	سفينة	قارب كبير لعبور البحر	Transportation
+Boat	n.	قارب	مركبة صغيرة للسفر على الماء	Transportation
+Ticket	n.	تذكرة	ورقة أو بطاقة للدخول أو السفر	Transportation
+Van	n.	فان	مركبة كبيرة لحمل الناس أو الأشياء	Transportation
+Station	n.	محطة	مكان لركوب أو النزول من القطار أو الحافلة	Transportation
+Airport	n.	مطار	مكان لإقلاع وهبوط الطائرات	Transportation
+Train station	n.	محطة قطار	توقف للركاب لركوب القطارات	Transportation
+Place	n.	مكان	موقع يوجد فيه شيء	Directions and Continents
+North	n.	شمال	الاتجاه الأيسر من شروق الشمس	Directions and Continents
+South	n.	جنوب	الاتجاه الأيمن من شروق الشمس	Directions and Continents
+East	n.	شرق	اتجاه شروق الشمس	Directions and Continents
+West	n.	غرب	اتجاه غروب الشمس	Directions and Continents
+Back	adv.	للخلف	نحو الخلف أو وراء شيء	Directions and Continents
+Right	adv.	يمين	نحو الجانب الأيمن	Directions and Continents
+Left	adv.	يسار	نحو الجانب الأيسر	Directions and Continents
+Far	adv.	بعيد	على مسافة كبيرة	Directions and Continents
+Continent	n.	قارة	كتلة أرضية كبيرة على الأرض	Directions and Continents
+Asia	n.	آسيا	أكبر قارة	Directions and Continents
+Asian	adj.	آسيوي	متعلق بآسيا أو شعبها	Directions and Continents
+Europe	n.	أوروبا	قارة صغيرة غرب آسيا	Directions and Continents
+European	adj.	أوروبي	متعلق بأوروبا أو شعبها	Directions and Continents
+Africa	n.	أفريقيا	ثاني أكبر قارة	Directions and Continents
+African	adj.	أفريقي	متعلق بأفريقيا أو شعبها	Directions and Continents
+Outside	adv.	في الخارج	في منطقة مفتوحة وليس بالداخل	Adverbs and Pronouns
+Always	adv.	دائماً	في جميع الأوقات بدون استثناء	Adverbs and Pronouns
+Never	adv.	أبداً	ليس في أي وقت	Adverbs and Pronouns
+Usually	adv.	عادة	في معظم الحالات	Adverbs and Pronouns
+Often	adv.	غالباً	مرات عديدة	Adverbs and Pronouns
+Sometimes	adv.	أحياناً	ليس دائماً ولكن بشكل متقطع	Adverbs and Pronouns
+Now	adv.	الآن	في هذه اللحظة	Adverbs and Pronouns
+Soon	adv.	قريباً	في وقت قصير	Adverbs and Pronouns
+Too	adv.	أيضاً	كذلك بالإضافة	Adverbs and Pronouns
+Here	adv.	هنا	في هذا المكان	Adverbs and Pronouns
+There	adv.	هناك	في مكان آخر	Adverbs and Pronouns
+Again	adv.	مرة أخرى	للمرة التالية	Adverbs and Pronouns
+Of course	adv.	بالطبع	بالتأكيد بدون شك	Adverbs and Pronouns
+Really	adv.	حقاً	في الواقع بصدق	Adverbs and Pronouns
+Why	adv.	لماذا	للسؤال عن سبب	Adverbs and Pronouns
+Where	adv.	أين	للسؤال عن مكان	Adverbs and Pronouns
+When	adv.	متى	للسؤال عن وقت	Adverbs and Pronouns
+What	pron.	ماذا	للسؤال عن معلومات	Adverbs and Pronouns
+Who	pron.	من	للسؤال عن شخص	Adverbs and Pronouns
+How	adv.	كيف	للسؤال عن طريقة أو أسلوب	Adverbs and Pronouns
+Else	adv.	آخر	بالإضافة إلى ذلك أو غير ذلك	Adverbs and Pronouns
+Before	prep.	قبل	أبكر من شيء	Prepositions and Determiners
+After	prep.	بعد	لاحقاً من شيء	Prepositions and Determiners
+At	prep.	عند/في	لإظهار المكان أو الوقت	Prepositions and Determiners
+In	prep.	في/داخل	داخل شيء	Prepositions and Determiners
+On	prep.	على	ملتصق بسطح أو تاريخ	Prepositions and Determiners
+Below	prep.	تحت	أسفل شيء	Prepositions and Determiners
+Above	prep.	فوق	أعلى من شيء	Prepositions and Determiners
+Across	prep.	عبر	على الجانب الآخر من شيء	Prepositions and Determiners
+Near	prep.	قريب من	قريب من شيء	Prepositions and Determiners
+Between	prep.	بين	في منتصف شيئين	Prepositions and Determiners
+Next to	prep.	بجانب	قريب جداً من شيء	Prepositions and Determiners
+Behind	prep.	خلف	في الجزء الخلفي من شيء	Prepositions and Determiners
+With	prep.	مع	معاً في مكان واحد	Prepositions and Determiners
+To	prep.	إلى	لإظهار الحركة أو الاتجاه	Prepositions and Determiners
+Another	det.	آخر	واحد آخر من نفس النوع	Prepositions and Determiners
+This	det.	هذا	يشير إلى شيء قريب	Prepositions and Determiners
+That	det.	ذلك/تلك	يشير إلى شيء بعيد	Prepositions and Determiners
+Both	det.	كلاهما	يشير إلى شيئين	Prepositions and Determiners
+What	det.	ما	تقديم جملة عامة	Prepositions and Determiners
+A	det.	أداة نكرة	تستخدم لشيء غير محدد	Prepositions and Determiners
+Over	prep.	فوق	أعلى من شيء	Prepositions and Determiners
+Under	prep.	تحت	أسفل شيء	Prepositions and Determiners
